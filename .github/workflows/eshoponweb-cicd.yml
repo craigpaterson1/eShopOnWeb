@@ -9,7 +9,7 @@ env:
   LOCATION: uksouth
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: fd05772e-a7cd-4e8d-b6d5-d5d805083cd2
-  WEBAPP-NAME: az400-webapp-craigp
+  WEBAPP-NAME: az400-webapp-craigpat
 
 
 jobs:
